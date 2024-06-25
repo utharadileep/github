@@ -1,0 +1,14 @@
+Problem: Bus stop issue
+
+Buses are not stopping at the bus stop
+
+Reasons:
+
+1. New road built 
+2. New road is curvey,while old road was straight
+3. No bus stop sign
+
+Solution:
+
+1. Bus stop sign board can be placed
+2. Bus stop can be moved to a more straingt road just near the old curvey road
